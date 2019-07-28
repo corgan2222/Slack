@@ -1,0 +1,55 @@
+.p-workspace--context-pane-collapsed {
+    grid-template-columns: 2px auto !important;
+}
+
+.c-message_attachment__part {
+    color: #fbf4d6 !important;
+}
+
+.p-context_block__text {
+    color: #fbf4d6 !important;
+}
+  
+.c-link c-message_attachment__title_link 
+{
+    color: #1264a3 !important;
+}
+
+.p-workspace--classic-nav .p-workspace__primary_view_footer {
+    display: none !important;
+}
+
+.c-message_attachment__thumb {
+    width: 40px !important;
+    height: 40px !important;
+    box-shadow: none;
+}
+
+.c-timestamp__label {
+    color: #bebebe !important;
+}
+
+.p-classic_nav{
+  display: none !important;
+  background-color: black;
+  heigt: 2px !important;
+  background: #222 !important;
+}
+
+.c-message--light .c-message__content--feature_sonic_inputs {
+    margin-left: 32px !important;
+}
+
+.c-message_attachment__title_link span {
+    color: #71b1f2 !important;
+}
+
+  body
+  {
+    background: #222 !important;
+    color: #e6e6e6 !important;
+  }
+
+.c-button--outline:link, .c-button--outline:visited {
+    color: #bbd7f2 !important;
+}
