@@ -53,3 +53,8 @@
 .c-button--outline:link, .c-button--outline:visited {
     color: #bbd7f2 !important;
 }
+
+.c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button, .c-message_attachment__author_name.c-link--button:active, .c-message_attachment__author_name.c-link--button:focus, .c-message_attachment__author_name.c-link--button:hover {
+    color: white !important;
+    font-weight: 900 !important;
+}
